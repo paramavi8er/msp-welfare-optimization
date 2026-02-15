@@ -1,0 +1,11 @@
+year,crop,msp_rs_per_quintal,fci_procurement_mmt,source_notes
+2020,wheat,1925,38.99,Rabi 2019-20 marketing season; procurement via FCI + state agencies
+2020,rice,1868,60.09,Kharif 2019-20; paddy MSP converted to rice equivalent at ~1.5x
+2021,wheat,1975,43.34,Rabi 2020-21; record procurement year
+2021,rice,1940,60.29,Kharif 2020-21
+2022,wheat,2015,18.79,Rabi 2021-22; sharp drop due to export ban (May 2022)
+2022,rice,2040,57.43,Kharif 2021-22
+2023,wheat,2125,26.20,Rabi 2022-23; partial recovery
+2023,rice,2183,55.41,Kharif 2022-23
+2024,wheat,2275,26.64,Rabi 2023-24
+2024,rice,2300,52.89,Kharif 2023-24
